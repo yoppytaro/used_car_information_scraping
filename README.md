@@ -22,7 +22,7 @@
 
 1. このリポジトリーを任意のディレクトリにダウンロードします。
 2. UiPath　オーケストレーター内のアセットに以下の項目を作成します。
-<img src="https://user-images.githubusercontent.com/58821058106843159-baf50e00-66e8-11eb-983c-8351ed6f27b9.png" width="600px">
+<img src="https://user-images.githubusercontent.com/58821058/106844511-15439e00-66ec-11eb-9d12-3b9fc2200c1b.png" width="600px">
 
 
 # エラー処理
